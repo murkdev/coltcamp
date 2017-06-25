@@ -1,0 +1,39 @@
+/* Star - Applies style to all elements on page */
+
+* {
+  font-weight : bold;
+}
+
+/* Descendant selector - Elements nested inside one another */
+
+li a {
+  color           : green;
+  text-decoration : none;
+}
+
+/* Adjacent Selector - Elements that come one after another */
+
+h4+ul {
+  border : 2px solid rgb(181, 230, 151);
+}
+
+/**
+ * Attribute Selector - Applies style to all elements with the attribute
+ * specificed
+ */
+
+/* input[type="checkbox"] { } */
+
+a[href="http://www.google.com"] {
+  background : #a9b8f6;
+}
+
+/* nth of type - Applies style to nth of selected element */
+
+ul:nth-of-type(2) {
+  background : #a896e9;
+}
+
+li:nth-of-type(3) {
+  text-decoration : line-through;
+}
