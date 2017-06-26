@@ -4,8 +4,8 @@ A collection of projects from the Colt Steele course on Udemy
 ### Contents:
 
  - [x] **HTML UNIT (03 & 04)**
- - [x] **COMPLETE CSS INTRODUCTION UNIT (05)**
-
+ - [x] **CSS INTRODUCTION UNIT (05)**
+ - [x] **CSS INTERMEDIATE UNIT (06)**
 
 ### Progress:
 
