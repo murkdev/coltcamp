@@ -1,0 +1,16 @@
+p {
+  font-family: "Patrick Hand SC";
+  font-size: 50px;
+  margin-top: 10px;
+  margin-left: 1.66%;
+  border-bottom: 2px solid #f1f1f1;
+  width: 30%;
+  padding-bottom: 5px;
+  text-transform: uppercase;
+}
+
+img {
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+}
